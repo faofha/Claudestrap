@@ -1,6 +1,6 @@
 <p align="center">
 <a href="">
-<img src="https://raw.githubusercontent.com/voidstrap/Voidstrap/main/Bloxstrap/Claudestrap.png" alt="preview" width="100px"/>
+<img src="https://raw.githubusercontent.com/faofha/Voidstrap/refs/heads/main/Bloxstrap/Claudestrap.png" alt="preview" width="100px"/>
 </a>
 </p>
 
