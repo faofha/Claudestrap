@@ -38,7 +38,7 @@ Leave a star if you like the project! ⭐️
 
 ## Find Me
 1. **Roblox:** [@dzrfklsfklgjhi](https://www.roblox.com/users/7194532582/profile)
-2. **YouTube:** [@dzrfklsfkljghi](https://www.youtube.com/@dzrfklsfklgjhi)
+2. **YouTube:** [@dzrfklsfkljgh](https://www.youtube.com/@dzrfklsfklgjh)
 3. **Discord:** `dzrfklsfkljghi`
 
 ## Installation
