@@ -37,9 +37,9 @@ Leave a star if you like the project! ⭐️
 <img src="https://raw.githubusercontent.com/faofha/Claudestrap/main/Resources/bar.png" style="width: 100%;">
 
 ## Find Me
-1. **Roblox:** [@conshun](https://www.roblox.com/users/8657911604/profile)
-2. **YouTube:** [@thisbreadtic](https://www.youtube.com/@thisbreadtic)
-3. **Discord:** `braticlyyy`
+1. **Roblox:** [@dzrfklsfklgjhi](https://www.roblox.com/users/7194532582/profile)
+2. **YouTube:** [@dzrfklsfkljghi](https://www.youtube.com/@dzrfklsfklgjhi)
+3. **Discord:** `dzrfklsfkljghi`
 
 ## Installation
 
