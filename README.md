@@ -33,10 +33,6 @@ Leave a star if you like the project! ⭐️
 
 > [!IMPORTANT]
 > Claudestrap currently supports **Windows 10 and above**.  
-> **macOS support is NOT in the works**, but it is NOT available yet.
->
-> In the meantime, you can use **[AppleBlox](https://github.com/AppleBlox/appleblox)** *(for macOS)* or **[Sober](https://sober.vinegarhq.org/)** *(for Linux)*.  
-> More experienced Linux users can also try tools like **[Lution](https://github.com/wookhq/Lution)**.
 
 <img src="https://raw.githubusercontent.com/faofha/Claudestrap/main/Resources/bar.png" style="width: 100%;">
 
