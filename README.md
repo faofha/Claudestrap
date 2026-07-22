@@ -136,7 +136,7 @@ Built on top of [Voidstrap](https://github.com/voidstrap/Voidstrap) by KloBratic
 [shield-repo-total]:      https://img.shields.io/github/downloads/faofha/Claudestrap/total?color=8a2be2
 [shield-repo-latest]:     https://img.shields.io/github/v/release/faofha/Claudestrap?color=7a39fb
 [shield-repo-stars]:      https://img.shields.io/github/stars/faofha/Claudestrap?color=ffd700
-[shield-discord-server]:  https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff
+[shield-discord-server]:  https://img.shields.io/discord/1529417048927506564?logo=discord&logoColor=white&label=Discord&color=4d3dff
 
 [repo-releases]:          https://github.com/faofha/Claudestrap/releases
 [repo-latest]:            https://github.com/faofha/Claudestrap/releases/latest
