@@ -89,7 +89,7 @@ Leave a star if you like the project! ⭐️
   </a>
 </p>
 
-Voidstrap is built using **C# and .NET**
+Claudestrap is built using **C# and .NET**
 
 ### Fork the Repository
 
@@ -99,12 +99,12 @@ Voidstrap is built using **C# and .NET**
 3. This creates your own copy under your GitHub account
 
 ## Credits
-Built on top of [Voidstrap](https://github.com/voidstrap/Voidstrap) by KloBraticc
+Built on top of [Voidstrap](https://github.com/voidstrap/Voidstrap) by Bratic
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 33%; text-align: left;">© Claudestrap</td>
-    <td style="width: 33%; text-align: right;"><a href="https://github.com/faofha/Claudestrap/blob/main/LICENSE.VOIDSTRAP" target="_blank">MIT</a></td>
+    <td style="width: 33%; text-align: right;"><a href="https://github.com/faofha/Claudestrap/blob/main/LICENSE.CLAUDESTRAP" target="_blank">MIT</a></td>
   </tr>
 </table>
 
